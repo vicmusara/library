@@ -72,7 +72,7 @@ document.addEventListener('click', (e) => {
     }
 });
 
-// Manually adding some books for demonstration
+// Manually adding  books
 addBookToLibrary('The Hobbit', 'J.R.R. Tolkien', 295, true);
 addBookToLibrary('To Kill a Mockingbird', 'Harper Lee', 281, false);
 
